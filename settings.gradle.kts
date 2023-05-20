@@ -1,1 +1,1 @@
-rootProject.name = "IMC"
+rootProject.name = "BMI"
